@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/java jar file/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/java jar file/fr.opensagres.xdocreport.itext.extension-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/java jar file/ooxml-schemas-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/java jar file/org.apache.poi.xwpf.converter.core-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/java jar file/org.apache.poi.xwpf.converter.pdf-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/java jar file/poi-3.10-FINAL.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/java jar file/poi-ooxml-3.10-FINAL.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/java jar file/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/java jar file/xml-apis-1.0.b2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/java jar file/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/java jar file/pdfbox-2.0.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/new/bouncy-castle-connector-8.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/new/commons-8.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/new/io-8.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/new/kernel-8.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/new/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/new/Image into pdf converter files/layout-8.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/new/Image into pdf converter files/logback.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/java jar file/class into java/asm-util-20041228.180559.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/java jar file/newwer/javassist-3.29.2-GA.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
